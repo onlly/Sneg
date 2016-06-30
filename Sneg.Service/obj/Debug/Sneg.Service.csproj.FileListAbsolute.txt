@@ -1,0 +1,16 @@
+G:\Sneg\Sneg.Service\obj\Debug\Sneg.Service.csprojResolveAssemblyReference.cache
+E:\Sneg\Sneg.Service\obj\Debug\Sneg.Service.csprojResolveAssemblyReference.cache
+E:\Sneg\Sneg.Service\bin\Debug\Sneg.Service.dll
+E:\Sneg\Sneg.Service\bin\Debug\Sneg.Service.pdb
+E:\Sneg\Sneg.Service\bin\Debug\EntityFramework.dll
+E:\Sneg\Sneg.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Sneg\Sneg.Service\bin\Debug\Newtonsoft.Json.dll
+E:\Sneg\Sneg.Service\bin\Debug\Sneg.Common.dll
+E:\Sneg\Sneg.Service\bin\Debug\Sneg.Data.dll
+E:\Sneg\Sneg.Service\bin\Debug\Sneg.Common.pdb
+E:\Sneg\Sneg.Service\bin\Debug\Sneg.Data.pdb
+E:\Sneg\Sneg.Service\bin\Debug\EntityFramework.xml
+E:\Sneg\Sneg.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Sneg\Sneg.Service\bin\Debug\Newtonsoft.Json.xml
+E:\Sneg\Sneg.Service\obj\Debug\Sneg.Service.dll
+E:\Sneg\Sneg.Service\obj\Debug\Sneg.Service.pdb
